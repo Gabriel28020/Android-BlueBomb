@@ -1,0 +1,4 @@
+<resources>
+    <!-- Standard Bluetooth USB HCI interface: Wireless Controller / RF Controller / Bluetooth -->
+    <usb-device class="224" subclass="1" protocol="1" />
+</resources>
