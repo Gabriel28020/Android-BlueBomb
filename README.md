@@ -60,6 +60,7 @@ What you can do:
 * Android SDK (API 35 and Build-Tools) (Can be found and installed via Android Studio).
 
 **Compile Debug**
+
 *(The debug version is completely in Portuguese, as it was built solely for diagnostics (and it is my native language)):*
 
 ```Windows
@@ -68,6 +69,7 @@ What you can do:
 ```
 
 **Compile Release**
+
 *(The APK must be signed later)*
 
 ```Windows
