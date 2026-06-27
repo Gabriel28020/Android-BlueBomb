@@ -1,4 +1,4 @@
-# Android BlueBomb
+# Android BlueBomb / DroidBomb
 Recently, I noticed that the Wii exploit "BlueBomb" had a minor inconvenience. Anyone who wanted to use it needed to install Linux on a PC. That is a huge pain. Setting up virtual machines, Bluetooth drivers, creating a bootable USB drive, etc.
 
 While daydreaming, I thought: "Android is Linux. Could I make BlueBomb work on Android?" I decided to create a native solution and, with some help from ChatGPT to accelerate the development, I successfully ported the BlueBomb logic from Linux to Android. (It worked VERY well.)
